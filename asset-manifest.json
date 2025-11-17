@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wundemo/static/css/main.e6c13ad2.css",
-    "main.js": "/wundemo/static/js/main.0bad0798.js",
+    "main.js": "/wundemo/static/js/main.95a034cd.js",
     "static/js/453.90105190.chunk.js": "/wundemo/static/js/453.90105190.chunk.js",
     "index.html": "/wundemo/index.html",
     "main.e6c13ad2.css.map": "/wundemo/static/css/main.e6c13ad2.css.map",
-    "main.0bad0798.js.map": "/wundemo/static/js/main.0bad0798.js.map",
+    "main.95a034cd.js.map": "/wundemo/static/js/main.95a034cd.js.map",
     "453.90105190.chunk.js.map": "/wundemo/static/js/453.90105190.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0bad0798.js"
+    "static/js/main.95a034cd.js"
   ]
 }
